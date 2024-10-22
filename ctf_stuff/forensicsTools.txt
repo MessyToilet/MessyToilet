@@ -1,0 +1,4 @@
+xxd
+hexdump
+
+exiftool
