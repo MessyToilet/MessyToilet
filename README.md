@@ -27,6 +27,9 @@
   <a><img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13"></a>
 </p>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MessyToilet&show_icons=true&theme=outrun&hide_border=true&count_private=true">
+</p>
+<p align="center">
   <a><img src="https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"></a>
@@ -34,10 +37,9 @@
   <a><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
 </p>
 
-
 <!--
 **MessyToilet/MessyToilet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
