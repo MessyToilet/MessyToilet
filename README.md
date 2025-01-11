@@ -29,6 +29,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MessyToilet&show_icons=true&theme=outrun&hide_border=true&count_private=true">
 </p>
+
+---
+
 <p align="center">
   <a><img src="https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
@@ -36,10 +39,11 @@
   <a><img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"></a> 
   <a><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
 </p>
----
 
 <div align="center">
-    ![rice](/imgs/rice/2025-01-09-195639_hyprshot.png)
+  
+![rice](/imgs/rice/2025-01-09-185639_hyprshot.png)
+
 </div>
 <!--
 **MessyToilet/MessyToilet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
