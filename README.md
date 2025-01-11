@@ -36,7 +36,11 @@
   <a><img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"></a> 
   <a><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
 </p>
+---
 
+<p align="center">
+    <img src=/imgs/rice/2025-01-09-195639_hyprshot.png>
+</p>
 <!--
 **MessyToilet/MessyToilet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
